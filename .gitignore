@@ -1,0 +1,6 @@
+*.txt
+*.o
+*.png
+*.pyc
+__pycache__/
+vna
